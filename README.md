@@ -1,11 +1,11 @@
 # satelite-scraping
 
-#Installation 
+# Installation 
 pip install BeautifulSoup4
 pip install requests
 
-#Commands to Execute
+# Commands to Execute
 python3 scraper.py
 
-#Output 
+# Output 
 root directory's result.csv
